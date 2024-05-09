@@ -8,7 +8,7 @@ Hi，Welcome！👋
   - 运维
   - 工具类
   - 果园
-- 📚 博客：https://www.xnbz.site/blog/
+- 📚 博客：https://www.xnbz.site/blog/archives/
 - 🍉 自研产品：小卡拉米的菜园子<br>一款用于记录美食、好物收藏等的微信小程序，集成同声传译语音识别输入功能，[更多](https://www.xnbz.site/blog/2023/12/20/gzh/)
 - ✉️ 邮箱：[Email](mailto:ybdt1201@gmail.com)
 
